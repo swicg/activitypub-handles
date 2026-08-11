@@ -3,3 +3,6 @@
 *.pid
 *.seed
 *.pid.lock
+
+# PR preview staging (created by .github/workflows/pr-preview.yml)
+_site/
